@@ -45,7 +45,8 @@ A passionate Mobile Software developer from Egypt
 - 🔭 I’m currently working on upwork  
   
 
-- 🌱 I’m currently learning Flutter-Clean architecture-unit testing-CI/CD-Agile  
+- 🌱 I’m currently learning Flutter-Clean architecture-unit testing-CI/CD-Agile Node.js
+design patterns Mongodb
   
 
 - ❓ Ask me about anything related to Mobile development  
