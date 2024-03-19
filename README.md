@@ -55,7 +55,7 @@ design patterns Mongodb
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://ibb.co/BLPV7VW" align="center" style="width: 100%" />
+<img src="https://drive.google.com/file/d/16g9Jqf7wGx9ZeWKNIx6GDg58Dvc2A3b-/view?usp=drivesdk" align="center" style="width: 20%" />
 </div>  
 
 
